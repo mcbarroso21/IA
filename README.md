@@ -1,6 +1,4 @@
 # IA
-Daniel Dorado Planas
-
-Argenmat Romero Valdes
-
-Marcos Barroso Torres
+Marco A Barroso Torres
+Daniel A Dorado Planas
+Angermant L Romero Valdez
