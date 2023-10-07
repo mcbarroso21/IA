@@ -20,7 +20,7 @@ prop(16,'problemas en el sistema de distribucion',p).
 prop(101,'Cocina electrica de una hornilla con medidor de temperatura defectuosa',i).
 prop(103,'Cocina electrica de dos hornillas defectuosa',i).
 prop(104,'Smartphone con problema en la pantalla y en los datos moviles',i).
-prop(105,'Automovil con motor de gasolina que no arranca,i).
+prop(105,'Automovil con motor de gasolina que no arranca',i).
 
 regla(1,y,[1,2,3,4,5],101,0.4).
 regal(2,y,[1,2,3,4,5,6],103,0.2).
